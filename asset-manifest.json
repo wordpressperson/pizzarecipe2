@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pizzarecipe/static/css/main.6b284299.chunk.css",
+    "main.js": "/pizzarecipe/static/js/main.305851f9.chunk.js",
+    "main.js.map": "/pizzarecipe/static/js/main.305851f9.chunk.js.map",
+    "runtime~main.js": "/pizzarecipe/static/js/runtime~main.a06300e1.js",
+    "runtime~main.js.map": "/pizzarecipe/static/js/runtime~main.a06300e1.js.map",
+    "static/js/2.aa9b191f.chunk.js": "/pizzarecipe/static/js/2.aa9b191f.chunk.js",
+    "static/js/2.aa9b191f.chunk.js.map": "/pizzarecipe/static/js/2.aa9b191f.chunk.js.map",
+    "index.html": "/pizzarecipe/index.html",
+    "precache-manifest.f2d93632a12c4c6e721c581f911753c2.js": "/pizzarecipe/precache-manifest.f2d93632a12c4c6e721c581f911753c2.js",
+    "service-worker.js": "/pizzarecipe/service-worker.js",
+    "static/css/main.6b284299.chunk.css.map": "/pizzarecipe/static/css/main.6b284299.chunk.css.map"
+  }
+}
